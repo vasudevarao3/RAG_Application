@@ -49,6 +49,7 @@ OPENAI_API_KEY=<your_openai_api_key>
 LLAMAPARSER_API_KEY=<your_llamaparser_api_key>
 GROQ_API_KEY=<your_groq_api_key>
 GEMINI_API_KEY=<your_gemini_api_key>
+PINECONE_API_KEY = <your_pinecone_api_key>
 ```
 
 5. Run App:
